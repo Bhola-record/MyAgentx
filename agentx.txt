@@ -1,0 +1,90 @@
+Mozilla/5.0 (X11; Ubuntu; Linux aarch64; rv:84.0) Gecko/20100101 Firefox/84.0
+Opera/9.80 (Macintosh; Intel Mac OS X 10_14_5; U; en) Presto/2.8.131 Version/11.11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2728.37 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4202.0 Safari/537.36 Edg/86.0.584.0
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x71716a7a71,(SELECT (ELT(4754=4754,1))),0x71707a7671,0x78))s), 8446744073709551610, 8446744073709551610)))-- hvyI
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chromium/83.0.6553.7847 Safari/537.36
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10 (.NET CLR 3.5.30729) sputnik 2.3.0.88
+Mozilla/5.0 (Windows NT 10.0; rv:74.0 ) Gecko/20100101 Firefox/74.0  anonymized by Abelssoft 1693433344
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 OPR/77.0.4054.203/SEBY9gWSyZJ0iWJdI3L
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17\x22)) AS mQuB WHERE 7452=7452;IIF(6601=6601,1,1/0)%16
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17' IN BOOLEAN MODE) OR 1561=(SELECT 1561 FROM PG_SLEEP(32))--
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0/hQh2JcFXfb2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2899.20 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.7952.6334 Safari/537.36 Edge/17.6241
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2780.21 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.2.25) Gecko/20111212 MRA 5.7 (build 03797) Firefox/3.6.25 sputnik 2.4.0.20
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763 [ip:213.32.4.211]
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-gb) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1'))) OR 4048=DBMS_PIPE.RECEIVE_MESSAGE(CHR(102)||CHR(110)||CHR(113)||CHR(107),32)--
+AppleCoreMedia/1.0.0.19C57 (Macintosh; U; Intel Mac OS X 10_15_2; pl_pl)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.100 Safari/537.36 OPR/69.2.2123.174
+Mozilla/5.0 (Windows NT 10.0; Win64; rv:87.0) Gecko/20100101 Firefox/87.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2646.84 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4756.0 Safari/537.36 Edg/98.0.1107.0
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2547.0 Safari/537.36 OPR/35.0.2052.0 (Edition developer)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28 sputnik 2.5.2.42
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4611.177 Safari/537.36
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-gb) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1') WHERE 1186=1186 AND CHAR(111)||CHAR(88)||CHAR(72)||CHAR(90)=REGEXP_SUBSTRING(REPEAT(RIGHT(CHAR(5023),0),32000000000),NULL)-- WAAj
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17||(SELECT 0x75486564 WHERE 6956=6956 AND EXTRACTVALUE(7339,CONCAT(0x5c,0x71716a7a71,(SELECT (ELT(7339=7339,1))),0x71707a7671)))||
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) WhatsApp/2.2142.12 Chrome/83.0.4103.122 Electron/9.4.3 Safari/537.36
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17' IN BOOLEAN MODE);DECLARE @x CHAR(9);SET @x=0x303a303a332;WAITFOR DELAY @x#
+Mozilla/5.0 (Android; Mobile; rv:39.0) Gecko/39.0 Firefox/39.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-gb) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1 OR 6912=BENCHMARK(32000000,MD5(0x436a5751))
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.50 (Edition Campaign ni)
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17)) AND 5553=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(113)||CHR(106)||CHR(122)||CHR(113)||(SELECT (CASE WHEN (5553=5553) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(112)||CHR(122)||CHR(118)||CHR(113)||CHR(62))) FROM DUAL) AND ((1370=1370
+AppleCoreMedia/1.0.0.16G2136 (Macintosh; U; Intel Mac OS X 10_12_6; fr_fr)
+Mozilla/5.0 (compatible;FW 2.0.5557.p; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0/PnWKbeJs-50
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-gb) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1\x22) OR 4579=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(3200000000/2)))) AND (\x22POed\x22=\x22POed
+Mozilla/5.0 (Android 12; Mobile; rv:83.0) Gecko/83.0 Firefox/83.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2768.44 Safari/537.36
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17) AS Fvsz WHERE 2347=2347 AND 2934=(SELECT (CASE WHEN (2934=2934) THEN 2934 ELSE (SELECT 7273 UNION SELECT 3329) END))-- Hrwg
+Mozilla/5.0 (Windows; U; Windows NT 5.1; pl; rv:1.8.1.3) Gecko/20070309 Firefox/2.0.0.3
+AppleCoreMedia/1.0.0.19H1615 (Macintosh; U; Intel Mac OS X 10_15_7; en_gb)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 FS
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 OPR/76.0.4017.107 (Edition Campaign 76)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0 [ip:37.77.125.114]
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4150.0 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; rv:58.0) Gecko/20100101 Firefox/58.0 anonymized by Abelssoft 1465178690
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.75
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4503.5 Safari/537.36 OPR/78.0.4086.0 (Edition developer)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Basecamp3/2.1.0 Chrome/78.0.3904.130 Electron/7.1.5 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2706.98 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17665
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20101203 MRA 5.5 (build 02761) Firefox/3.6.13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2910.45 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2637.58 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.9.8967.966 Safari/537.36 Edg/86.0.622.38
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML%2C like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.1 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69 [ip:82.62.18.132]
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36 OPR/67.0.3575.79
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2713.47 Safari/537.36
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17\x22) OR 2697=(SELECT COUNT(*) FROM RDB$FIELDS AS T1,RDB$TYPES AS T2,RDB$COLLATIONS AS T3,RDB$FUNCTIONS AS T4) AND (\x22cMGx\x22=\x22cMGx
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_1) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 OPR/75.0.3969.149 (Edition utorrent)
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.4168.1916 Safari/537.36 Edge/18.3529
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Tesseract/1.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 OPR/77.0.4054.203
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16258
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0/jCjQUlT4-14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4132.0 Safari/537.36
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-gb) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1`) WHERE 9820=9820 RLIKE (SELECT 8336 FROM (SELECT(SLEEP(32)))YvcX)#
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1; en-CA) AppleWebKit/602.1.1 (KHTML, like Gecko) Version/12.0.3 Safari/602.1.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/606.1.36 (KHTML, like Gecko) Version/12.0.3 Safari/606.1.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4310.0 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.0 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36,gzip(gfe)
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.35 Safari/537.36 OPR/34.0.2036.3 (Edition beta)
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17`) WHERE 2645=2645 AND 9729=CONVERT(INT,(SELECT CHAR(113)+CHAR(113)+CHAR(106)+CHAR(122)+CHAR(113)+(SELECT (CASE WHEN (9729=9729) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(122)+CHAR(118)+CHAR(113)))-- fUNh
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.271 (Edition Campaign ISYF2)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19 ( .NET CLR 3.5.30729; .NET4.0C)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 YaBrowser/16.10.0.2309 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:68.0) Gecko/20100101 Thunderbird/68.10.0 Lightning/68.10.0
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.2) Gecko/20070219 Firefox/2.0.0.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2773.5 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0 [ip:93.65.244.165]
